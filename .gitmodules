@@ -1,0 +1,4 @@
+[submodule "src/public"]
+	path = src/public
+	url = git@github.com:ems-project/ems-project.github.io.git
+	branch = master
